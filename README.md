@@ -22,5 +22,16 @@ Este projeto foi desenvolvido para colocar em prática conceitos fundamentais de
 * **Design Responsivo**: Interface adaptada para uma experiência fluida tanto em desktops quanto em dispositivos móveis.
 * **Feedback Visual**: Cartas encontradas ficam desativadas e esmaecidas, facilitando a visualização do progresso.
 
-## 🎮
+## 🎮 Como Jogar
+1. Acesse a página inicial e digite seu nome de herói.
+2. Clique nas cartas para revelá-las e tente encontrar o par correspondente.
+3. O jogo termina quando todos os 8 pares forem encontrados.
+4. Após a vitória, você receberá uma mensagem especial de boas-vindas à equipe do Batman!
 
+## 📂 Estrutura de Pastas
+```text
+├── CSS/         # Estilização (Reset, Login, Jogo e Pós-jogo)
+├── IMG/         # Recursos visuais e imagens das cartas
+├── JS/          # Scripts de lógica e comportamento
+├── PAGINAS/     # Telas do Jogo e Pós-jogo
+└── index.html   # Ponto de entrada (Login)
