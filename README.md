@@ -2,9 +2,6 @@
 
 Um desafio clássico de memória ambientado no universo sombrio do Cavaleiro das Trevas. Teste sua concentração e velocidade para provar que você é digno de entrar na Batcaverna!
 
-## 🚀 Demonstração
-Você pode jogar o jogo diretamente aqui: **[Batman Memory Game](https://lucasriandev.github.io/Batman-memory-game/)**
-
 ![Preview do Jogo](https://github.com/user-attachments/assets/42036749-89a5-4713-9153-634123e2656f)
 
 ## 📋 Sobre o Projeto
